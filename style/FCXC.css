@@ -1,0 +1,35 @@
+/* CSS Document */
+@charset "utf-8";
+*{list-style:none; text-decoration:none; margin:0; padding:0; font-family:微软雅黑;}
+
+.L{width:100%; height:1930px; background:#F0F0F0;}
+
+.L1{width:100%; height:60px; background:#000;}
+.L1-1{width:1140px; height:60px; margin:auto;}
+.L1-2{width:180px; height:60px; background:url(../images/logo-1.png) no-repeat; float:left;}
+.L1-2 a{color:#00A7EB;}
+.L1-3{width:800px; height:60px; margin:auto; float:right;}
+.L1-3-1{width:800px; height:60px; margin:; float:right;}
+.L1-3-1 li{width:100px; height:60px; line-height:60px; text-align:center; float:left; padding:0 25px;}
+.L1-3-1 li a{color:#F00; font-size:16px;}
+.L1-3-1 li a:hover{color:#D20000;}
+.L1-3-1 li:hover .list{width:135px; height:200px; display:block; background:#FFF;}
+.L2{width:100%; height:265px; background:url(../images/FC.jpg);}
+
+.L3{width:1140px; height:2770px; margin:auto;}
+.L3-1{width:1140px; height:41px; margin:20px auto;}
+.L3-1-1{width:100px; height:40px; float:left; background:#000; line-height:40px; text-align:center; font-size:14px;}
+.L3-1-2{width:100px; height:40px; float:left; background:#39F; line-height:40px; text-align:center; font-size:14px;}
+.L3-1-3{width:450px; height:40px; float:right; line-height:40px; text-align:center; font-size:14px;}
+.L3-1-4{width:100%; height:1px; float:left; background:#CCC;}
+.L3-1-1 a{color:#FFF;}
+.L3-1-2 a{color:#FFF;}
+.L3-1-1 a:hover{color:#36F;}
+.L3-1-2 a:hover{color:#3a6ab5;}
+
+.L4{width:100%; height:60px; background:#333; float:left;}
+.L4-1{width:1140px; height:60px; margin:auto; line-height:60px; text-align:center;}
+.L4-1 a{color:#CCC;}
+.L4-1 a:hover{color:#39F;}
+
+
